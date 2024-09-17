@@ -1,19 +1,9 @@
 name: allure
-displayName: Allure
-author: Lixie
+displayName: Allure (testing things)
+author: Vincenzo
 description:
   '''
-  WARNING: Not supported on low-end devices.
-
-  World logic contributed by Sh1penfire (@sh1penfire). Much thanks!
-  
-  An attempt at an immersive content mod.
-
-  HJSON at its core, Allure seeks to break the limits and deliver a hopefully interesting experience to whoever plays it. Although most mods (well, all mods really) give an easier experience due to bad balancing, Allure is considerably tougher than vanilla.
-
-  This mod may cause ragequits and you may get stuck at any point in progression. Skill is required.
-
-  THIS UPDATE IS STILL IN EARLY DEV SO PLEASE SHUT UP ABOUT BUG REPORTS
+  LIXIE MADE EVERYTHING IN THIS MOD, I'M JUST TESTING THINGS
   '''
 version: spaghetti
 minGameVersion: 147
