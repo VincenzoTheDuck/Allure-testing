@@ -175,7 +175,7 @@ consumes: {
 drawer: [
   {
     type: DrawRegion
-    suffix: -base
+    suffix: -basee
   }
   {
     type: DrawPistons
