@@ -1,5 +1,4 @@
 type: GenericCrafter
-placeablePlayer: false
 liquidCapacity: 20
 rotateDraw: false
 rotate: true
